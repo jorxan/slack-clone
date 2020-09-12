@@ -20,3 +20,23 @@
 .chatInput > form > button {
     display: none !important;
 }
+
+
+
+
+
+  @media only screen and (max-width: 920px) {
+    .chatInput > form > input {
+        
+        width: 66%;
+       
+    }
+  }
+
+  @media only screen and (max-width: 745px) {
+    .chatInput > form > input {
+        
+        width: 60%;
+       
+    }
+  }
