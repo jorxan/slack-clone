@@ -36,7 +36,10 @@
     border: none;
     text-align: center;
     min-width: 30vw;
+    outline: none;
+    color: white;
 }
+
 
 .header__right {
     flex: 0.3;
